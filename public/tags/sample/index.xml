@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sample on coefficiencies</title>
-    <link>https://coefficiencies.com/tags/sample/</link>
+    <link>http://localhost:1313/tags/sample/</link>
     <description>Recent content in Sample on coefficiencies</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 tommertron heavy industries</copyright>
     <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://coefficiencies.com/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/sample/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Users</title>
-      <link>https://coefficiencies.com/users/</link>
+      <link>http://localhost:1313/users/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://coefficiencies.com/users/</guid>
+      <guid>http://localhost:1313/users/</guid>
       <description></description>
     </item>
   </channel>
