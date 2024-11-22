@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on coefficiencies</title>
-    <link>https://coefficiencies.com/about/</link>
+    <link>https://tommertron.github.io/coefficiencies/about/</link>
     <description>Recent content in Abouts on coefficiencies</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 tommertron heavy industries</copyright>
-    <atom:link href="https://coefficiencies.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tommertron.github.io/coefficiencies/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://coefficiencies.com/about/about/</link>
+      <link>https://tommertron.github.io/coefficiencies/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://coefficiencies.com/about/about/</guid>
+      <guid>https://tommertron.github.io/coefficiencies/about/about/</guid>
       <description></description>
     </item>
   </channel>

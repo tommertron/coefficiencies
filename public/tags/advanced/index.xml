@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>advanced on coefficiencies</title>
-    <link>https://coefficiencies.com/tags/advanced/</link>
+    <link>https://tommertron.github.io/coefficiencies/tags/advanced/</link>
     <description>Recent content in advanced on coefficiencies</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; 2024 tommertron heavy industries</copyright>
-    <atom:link href="https://coefficiencies.com/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://tommertron.github.io/coefficiencies/tags/advanced/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
