@@ -1,4 +1,4 @@
-baseURL = 'https://tommertron.github.io/coefficiencies/'
+baseURL = "https://tommertron.github.io/coefficiencies/"
 languageCode = 'en-us'
 title = 'coefficiencies'
 theme = 'congo'
