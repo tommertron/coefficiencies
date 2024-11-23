@@ -9,9 +9,11 @@ But I’d like you to hear me out that it might be worth making a space to pay f
 # Categories of Software
 ## Free Software
 Let’s start with ‘free’ software. Free software comes in basically three categories:
+
 1. Free to use with no strings (usually, but not always, open-source software).
 2. Free to use with ads.
 3. Free to use, but with limited functionality unless you pay.
+
 I use a bunch of stuff from Category 1. [Homebridge](https://homebridge.io) is an open source, well-built and maintained application that lets you run non-Apple [HomeKit](#) certified smart home accessories within the [Apple Home app](https://www.apple.com/ca/home-app/). It’s so cool that so many people freely contribute their time to this project.
 I have no time for Category 2. I find modern digital ads to be so obtrusive, obnoxious, and almost always some sort of scam or shady operation that it just bothers me to see ads so much when I’m using software. That’s putting aside the array of tracking information that modern ad tech puts everywhere, that just gives me a gross feeling. Probably the only piece of software I use with ads in it with any regularity these days is Instagram, and if I could pay to remove ads from it, I would. And because I can’t, and because I’m constantly being bombarded with ads and other junk to help some Product Manager’s [KPIs](https://en.wikipedia.org/wiki/Performance_indicator), I find I’m using Instagram less and less these days.
 Category 3 is where things start to get good. I actually really like this model a lot because it lets you try an app for free and then decide whether you like it enough to pay for the extra features.
