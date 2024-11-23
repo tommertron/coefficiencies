@@ -3,6 +3,8 @@ date = '2024-02-23T20:37:53-05:00'
 draft = false
 title = 'The Universal Theory of Project Management '
 +++
+
+## Intro
 I’ve been professionally involved in some sort of project management now for almost 20 years. Before that, (like most people) I’ve led or been a part of “projects” of one sort or another for probably another 20 years, if you count school projects, plays that I’ve produced, or even events like my wedding, parties or vacations. At the risk of sounding immodest, I think I’m pretty _good_ at managing projects, and I have some ideas about them. Lots of ideas!
 A few years ago, after experience with various project methodologies, I came up with a simple theory about the basics of good project management. I think this theory is applicable to just about every methodology, from [agile](https://en.wikipedia.org/wiki/Agile_software_development) to [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) and [kanban](https://en.wikipedia.org/wiki/Kanban_(development)) and everything else in between.
 Basically, boils down to this:
