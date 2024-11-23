@@ -4,6 +4,7 @@ draft = false
 title = 'Why I like Paying for Software'
 +++
 There’s a now relatively old [The Oatmeal comic](https://theoatmeal.com/blog/apps) about buying software that’s always resonated with me. The whole thing is worth a read and still stands up, but I’ll summarize it briefly. Basically, it describes a person buying numerous expensive things without a thought, and then stopping to think really hard about whether to buy a 99 cent app on their phone. Reader, this is you: admit it.
+
 I’m probably the opposite in this regard, and again, a weird statistical blip, but I really like trying new software and will gladly pay for it. I just find it fun! I’ll plop down five or ten bucks to try something new just to see if it will stick. (This is the role of the “University” in my [Productivity Town.](https://coefficiencies.com/2024/03/03/productivity-town/)) I do this because it’s fun, but I do recognize that trying new productivity software is no one’s idea of fun.
 But I’d like you to hear me out that it might be worth making a space to pay for more software in your life, especially from independent developers.
 # Categories of Software
