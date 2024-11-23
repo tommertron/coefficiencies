@@ -16,6 +16,7 @@ Businesses in most jurisdictions are legally obliged to make it easy to unsubscr
 So to sum up, managing the River of information involves two basic strategies:
 1. Identifying and putting aside the good stuff.
 2. Stopping as much junk and irrelevant stuff from flowing downstream as you can to make #1 more successful.[^2]
+
 ## The Factory
 In our metaphor, the Factory is a place to make things. It’s the Dockworker’s job to make sure that the right raw materials and requests for stuff are sent to the Factory for fulfillment. But it’s the job of the **Factory Manager** to process all the new work orders and materials coming in, making sure the requests are met in time, and continually improving the factory’s operations to make the factory more efficient.
 In our real life, the Factory can take many forms. One form is probably some sort of to-do list, where you keep track of the important things you need to do and when. The other is the way in which you do work or get things done, whatever they are. If you’re a tradesperson, this might mean buying a new tool that makes a routine job quicker. If you’re a video editor, maybe it means upgrading your computer to speed up video encoding. Or, if you’re an information worker of any sort, a new software application that can automate the routine tasks you do.
@@ -24,6 +25,7 @@ So let’s say there’s a function you do about 100 times a day. It takes one s
 So to sum up our strategies for the Factory, they are:
 1. Organizing the list of things to do
 2. Making doing the things more efficient 
+
 ## The Library
 The next building in our metaphorical town is the Library. In our town, the Library is a place where people can access knowledge on various subjects (or, just find some entertainment and diversion.) The Library is managed, of course, by the **Librarian.** It’s their job to make sure the Library has materials on a wide variety of different subjects, and makes accessing those materials easy by having an accessible organization system so people can find what they’re looking for easily.
 So what’s the Library in real life? Real libraries, are, of course, an invaluable real-life resource that many people have access to and should take advantage of. But when I think of the metaphorical library, I’m thinking of the place or places that you organize all the information that is, or could be, important to you, so you can access it at the right time. This could take the form of a notebook or notes application, a filing cabinet, an actual collection of books, or all of the above and more.
@@ -33,6 +35,7 @@ So, if you’re a user of notes apps, it’s important to both find useful stuff
 So the Library, like the other buildings, has two basic strategies:
 1. Curate relevant knowledge.
 2. Make the knowledge easy to access.
+
 ## The University
 The next building in our metaphorical town is the University. In our town, the University’s role is to educate as well as to research, experiment and develop new knowledge. So the job of the University’s **Dean** is to balance these two parts of its mission, by making sure there are good instructional practices in place, attracting the right students, and to create a good space for research and experimentation. And the Dean will work closely with the Librarian to make sure that important knowledge it creates is archived and catalogued, so others can make use of it (including its students.)
 In real life, universities, like libraries, are actual, invaluable resources for people who are eager to learn new things. And lifelong learning is an important part of a balanced life. But when I think about my metaphorical university, I focus more on its research and experimentation function. That means trying new things and new ways of working to see if they will stick.
@@ -42,6 +45,7 @@ I may be an outlier in finding trying new applications fun, but that, of course,
 So to sum up the University, its strategy again boils down to two things:
 1. Continually learning new things.
 2. Experiment with different types of things to see if they will be helpful.
+
 ## The Church
 I didn’t discuss the Church above, so think about this as a little bonus building in our town. In our town, the Church is a place where the community congregates regularly to reflect about things that are greater than themselves.
 Sometimes we (well, certainly I) can get so caught up in getting things done and being productive that it leaves other parts of us unfulfilled. Like the other buildings, going to a church or other religious institution is a real thing that people can certainly do, and something that certainly can fulfill the need to congregate and contemplate greater things. But your metaphorical Church doesn’t *have* to be one of those places. 

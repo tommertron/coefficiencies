@@ -3,6 +3,7 @@ date = '2024-03-24T20:37:53-05:00'
 draft = false
 title = 'How I Budget with Shortcuts on iOS'
 +++
+
 ## Intro
 I’ve managed my personal budgets in basically the same way since I started working a regular job, which, according to personal finance experts, is probably wrong but has always worked really well for me. I’ve recently figured out a fun way to automate my system using iOS Shortcuts and Reminders (and a couple of helper apps) and thought I’d share here both my budgeting system and the way I automate it.
 

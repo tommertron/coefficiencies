@@ -6,9 +6,11 @@ title = 'The Universal Theory of Project Management '
 I’ve been professionally involved in some sort of project management now for almost 20 years. Before that, (like most people) I’ve led or been a part of “projects” of one sort or another for probably another 20 years, if you count school projects, plays that I’ve produced, or even events like my wedding, parties or vacations. At the risk of sounding immodest, I think I’m pretty _good_ at managing projects, and I have some ideas about them. Lots of ideas!
 A few years ago, after experience with various project methodologies, I came up with a simple theory about the basics of good project management. I think this theory is applicable to just about every methodology, from [agile](https://en.wikipedia.org/wiki/Agile_software_development) to [scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) to [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) and [kanban](https://en.wikipedia.org/wiki/Kanban_(development)) and everything else in between.
 Basically, boils down to this:
+
 > All successful projects, at a minimum, have these two things in common:
 > 1. They have a list of things
 > 2. People review the list of things regularly
+
 I know that seems simple and probably obvious, but it’s actually kind of amazing how seldom a lot of project teams don’t actually do either of those two things. Obviously, there’s lots of other stuff to consider when planning and managing a project. But seriously, if you do nothing else on a project but those two things, I guarantee your project will be more successful than if you didn’t.
 That said, I will elaborate a bit on this theory for better clarity. One of the challenges I see with a lot of project management methodologies is that they tend to use a lot of confusing and bespoke jargon. So I’m going to describe this all in as plain language as possible to make it accessible and demonstrate how straightforward good project management really is.
 ## A List of Things
@@ -38,6 +40,7 @@ Reviewing the list can be done in many ways. Whatever way is used, I’ve found 
 - If so, what is it, and what’s to be done about it?
 - What’s next on the road to completing this thing?
 - Are we sure we even need to do this thing anymore?
+
 Usually, if a list item is assigned to someone, the person running the project or meeting asks these questions to the person assigned, but a lot of them can also be asked of the group as well.
 ### Why is This so Important?
 Meeting regularly to review items on a list, I’ve found, is **extremely effective.**
@@ -50,6 +53,7 @@ Recording the review is where tracking things as sticky notes on a board really 
 If you’re a seasoned project practitioner, I’m sure you’ve been yelling at your screen reading this.
 > “But what about goals??! A project without a clear goal will never be successful!
 > And you can’t have a successful project without good people!
+
 To that, I would say: you’re right! Those are vital things and you should have them!
 But given that most people don’t even have a list and a way to regularly review the list, I still think it’s a good place to start. Once you start talking about things on a list, conversations about goals will naturally come up as it relates to things on the list (especially when you ask if you should really be doing this thing.) Also, setting a goal can and should also be a thing on your list!
 It will also become *exceedingly* obvious when you meet to review the list who is not pulling their weight on the project, especially if you are assigning things to people and tracking the conversation around the thing. This can be a helpful way to drive accountability with under-performers, or, worst case, prompt discussions about their role on the project team.
