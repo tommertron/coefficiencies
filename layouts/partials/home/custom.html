@@ -1,0 +1,25 @@
+{{ $jsHome := resources.Get "js/home.js" | resources.Minify | resources.Fingerprint "sha512" }}
+
+<!-- Hero Section with Background Image -->
+<div id="hero-section" class="relative min-h-screen">
+  <!-- Background Image -->
+  <div id="background-image"></div>
+
+  <!-- Main Content -->
+  <div id="page" class="relative z-10">
+    {{ partial "partials/home/page.html" . }}
+  </div>
+</div>
+
+<!-- Profile Section (Optional) -->
+<div id="profile" class="hidden h-full">
+  {{ partial "partials/home/profile.html" . }}
+</div>
+
+<!-- JavaScript -->
+<script
+  defer
+  type="text/javascript"
+  src="{{ $jsHome.RelPermalink }}"
+  integrity="{{ $jsHome.Data.Integrity }}"
+></script>

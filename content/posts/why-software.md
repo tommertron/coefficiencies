@@ -1,0 +1,44 @@
++++
+date = '2024-03-16T20:37:53-05:00'
+draft = false
+title = 'Why I like Paying for Software'
++++
+There’s a now relatively old [The Oatmeal comic](https://theoatmeal.com/blog/apps) about buying software that’s always resonated with me. The whole thing is worth a read and still stands up, but I’ll summarize it briefly. Basically, it describes a person buying numerous expensive things without a thought, and then stopping to think really hard about whether to buy a 99 cent app on their phone. Reader, this is you: admit it.
+
+I’m probably the opposite in this regard, and again, a weird statistical blip, but I really like trying new software and will gladly pay for it. I just find it fun! I’ll plop down five or ten bucks to try something new just to see if it will stick. (This is the role of the “University” in my [Productivity Town.](https://coefficiencies.com/2024/03/03/productivity-town/)) I do this because it’s fun, but I do recognize that trying new productivity software is no one’s idea of fun.
+But I’d like you to hear me out that it might be worth making a space to pay for more software in your life, especially from independent developers.
+# Categories of Software
+## Free Software
+Let’s start with ‘free’ software. Free software comes in basically three categories:
+
+1. Free to use with no strings (usually, but not always, open-source software).
+2. Free to use with ads.
+3. Free to use, but with limited functionality unless you pay.
+
+I use a bunch of stuff from Category 1. [Homebridge](https://homebridge.io) is an open source, well-built and maintained application that lets you run non-Apple [HomeKit](#) certified smart home accessories within the [Apple Home app](https://www.apple.com/ca/home-app/). It’s so cool that so many people freely contribute their time to this project.
+I have no time for Category 2. I find modern digital ads to be so obtrusive, obnoxious, and almost always some sort of scam or shady operation that it just bothers me to see ads so much when I’m using software. That’s putting aside the array of tracking information that modern ad tech puts everywhere, that just gives me a gross feeling. Probably the only piece of software I use with ads in it with any regularity these days is Instagram, and if I could pay to remove ads from it, I would. And because I can’t, and because I’m constantly being bombarded with ads and other junk to help some Product Manager’s [KPIs](https://en.wikipedia.org/wiki/Performance_indicator), I find I’m using Instagram less and less these days.
+Category 3 is where things start to get good. I actually really like this model a lot because it lets you try an app for free and then decide whether you like it enough to pay for the extra features.
+## Paid Software
+Paid software is a bit more straightforward. Either you pay a one-time fee for that software or you pay for a subscription to use it (this is a variant of Category 3 basically, and most paid software falls into this category these days.)
+I think that most people are generally the most comfortable with this approach to a point, only because it seems pretty straightforward. I pay this much, and then I ‘own’ this piece of software. The major problem with this is that people have basically stopped doing this, for whatever reason (see, again, the Oatmeal comic) and it’s very rare to even see one-time software, with most paid software being subscription software. So let’s talk about subscriptions, realistically, the only form of paid software these days.
+People hate subscriptions, and I get it. People talk about ‘subscription fatigue’ and balk at having to pay to subscribe for software. That when they stop paying, they don’t really ‘own’ the software anymore. While this is true, subscription software doesn’t really bother me for a couple of reasons.
+First is that before subscription software, software was really expensive. The Microsoft Office suite cost something like $500[^1] when it came in a box on CD or floppy drives. And ostensibly, you owned it and didn’t have to pay to keep using it. Except that if you got a new computer with a new operating system, that version you got may not be compatible with it, and you’d have to plop down another $500 for a new version (or maybe a smaller amount for an ‘upgrade’ version.) Or perhaps the new version had really compelling new features that you wanted, or introduced a new file format that people started sending you that are only readable in the new version.
+So let’s say over the course of 10 years, you spent $1000 on Microsoft Office by buying it twice. That averages out to about $100 a year, which, maybe not coincidentally, is roughly what Microsoft charges for an annual Microsoft Office 365 subscription now. So, even if you weren’t paying a subscription, your costs would have been about the same either way.
+Therefore, I’d argue that subscriptions are, love them or hate them, not all that different from one-time payments when it comes to software. That’s because most software is really a service, that’s powered by people, and it needs maintenance and updates. That was true when software was shipped in a box, and it’s still true today. 
+And I like subscriptions because they actually give you several options you never had before. If you just want to test the waters on a piece of software, you can pay for it for a month or two to try it out. If it’s not for you, you can walk away from it, and you haven’t wasted a huge upfront cost. Plus, subscriptions often fund continual improvements, so your app gets better and better over time in incremental updates throughout the year.
+And while you can certainly subscribe to Microsoft 365 or Adobe Creative Cloud or what have you, I think there is a better and far cooler way, and that way is “Indie” software.
+## Indie Software
+Indie software is software that’s frequently made by one person, or occasionally a small team. This software is very rarely funded by venture capital, and is not very likely to have a big IPO and make its investors rich. Typically, these are side projects for people, or if not, a means to providing a moderate, honest living.
+Because there’s not a promise of a ton of money for indie software, I generally find the motivation is just to make really great software that the developers are proud of. In the same way that artists aren’t in it for the money, but for the passion of making great stuff. This isn’t an argument to under-pay software developers or artists. They can and should deserve to make a living from their work. But I find when the primary motiviation is the craft and not the money, the end result tends to be better.
+ Is it all good? No, probably not. Am I generalizing? Most likely. But some of my favourite software is indie software, and I mostly feel good about paying for it, knowing my money’s going towards people who are just trying to make cool stuff they can stand behind.
+## Wrap Up and Recommendations
+So there’s my case to try paying for software, especially indie software. I honestly don’t know how compelling an argument any of this was, so I’ll just wrap up with a few recommendations for some indie software that I love. Most of this software is Apple/iOS only. One of the things I really like about Apple’s platforms is it tends to attract really great indie developers who make quality apps like the ones below.
+* [Bear](https://bear.app) is a notes software that I like a lot. It basically does everything Apple Notes does, but in a way that just feels prettier to me. 
+* [Sequels](https://apps.apple.com/ca/app/sequel-media-tracker/id1630746993) is a nice way to collect lists of TV shows, movies, books and games that you want to consume in a very pretty format with nice media art and stuff.
+* [Anybox](https://anybox.app) is a way to store and organize, well, anything I guess, but I use it to store bookmarks and add tags and notes to them so I can find stuff easily later. You can do this in your browser, but I find it really handy to do this in an app. 
+* [Soulver 3](https://soulver.app) is like a combination of notepad and calculator. I find it’s really handy for doing some quick calculations with notes on your phone without having to resort to making a whole spreadsheet.
+* [Callsheet](https://apps.apple.com/ca/app/callsheet-find-cast-crew/id1672356376) is an app that lets you look up movies and find cast and crew information. Sure, you can do this on Google, or through IMBD, but this app has not ads or other junk and is just focused on nicely getting you the information you want quickly. 
+
+
+
+[^1]:	I didn’t research this or adjust for inflation or anything, but it was something in this ballpark either way.

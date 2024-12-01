@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "coefficiencies"
+copyright = "&copy; 2024 tommertron heavy industries"
+
+[params]
+  dateFormat = "January 2, 2006"
+
+  mainSections = ["samples"]
+  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+
+[params.author]
+  name = "Tom Robertson"
+  image = "img/tom-profile-pic-2020.jpeg"
+  headline = ""
+  bio = "Hey, I'm Tom! I've spent most of my career working in Technology and Project Management, and I've always shared a passion for writing and tinkering. If you want to reach out, connect through my socials below!"
+  links = [
+    { linkedin = "https://www.linkedin.com/in/tomarobertson/" },
+    { github = "https://github.com/tommertron" },
+  ]

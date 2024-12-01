@@ -1,0 +1,4 @@
+baseURL = "https://coefficiencies.com/"
+languageCode = 'en-us'
+title = 'coefficiencies'
+theme = 'congo'
