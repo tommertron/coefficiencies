@@ -16,3 +16,4 @@ summaryLength = 0
 
 [params]
   customCSS = ["css/custom.css"]
+  autoFeaturedImage = false
