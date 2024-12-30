@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on coefficiencies</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on coefficiencies</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; 2024 tommertron heavy industries</copyright>
+    <lastBuildDate>Thu, 26 Dec 2024 21:11:32 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Site Redesign Now Live</title>
+      <link>http://localhost:1313/posts/site-redesign-now-live/</link>
+      <pubDate>Thu, 26 Dec 2024 21:11:32 -0500</pubDate>
+      <guid>http://localhost:1313/posts/site-redesign-now-live/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Power of Plain Text</title>
+      <link>http://localhost:1313/posts/plain-text/</link>
+      <pubDate>Sat, 30 Mar 2024 20:37:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/plain-text/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How I Budget with Shortcuts on iOS</title>
+      <link>http://localhost:1313/posts/how-i-budget/</link>
+      <pubDate>Sun, 24 Mar 2024 20:37:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/how-i-budget/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Why I like Paying for Software</title>
+      <link>http://localhost:1313/posts/why-software/</link>
+      <pubDate>Sat, 16 Mar 2024 20:37:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/why-software/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>How I Watch TV in 2024</title>
+      <link>http://localhost:1313/posts/how-tv/</link>
+      <pubDate>Sat, 09 Mar 2024 20:37:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/how-tv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Productivity Town</title>
+      <link>http://localhost:1313/posts/productivity-town/</link>
+      <pubDate>Mon, 04 Mar 2024 20:37:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/productivity-town/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Things Your Car Can Do That You Probably Didn’t Realize</title>
+      <link>http://localhost:1313/posts/things-car/things-your-car-can-do-that-you-probably-didnt-realize/</link>
+      <pubDate>Fri, 01 Mar 2024 20:37:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/things-car/things-your-car-can-do-that-you-probably-didnt-realize/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>The Universal Theory of Project Management </title>
+      <link>http://localhost:1313/posts/universal-theory-projects/</link>
+      <pubDate>Fri, 23 Feb 2024 20:37:53 -0500</pubDate>
+      <guid>http://localhost:1313/posts/universal-theory-projects/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
