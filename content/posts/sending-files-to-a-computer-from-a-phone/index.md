@@ -15,6 +15,6 @@ I wanted to figure out a way to send a file **directly** to my Mac. I have set u
 
 So I searched around for an SFTP/SSH client for the iPhone and stumbled upon [Secure ShellFish](https://secureshellfish.app/) which not only has a nice SFTP / SSH terminal client, but also integrates with Shortcuts, allowing you to upload a file from a Shortcut. 
 
-So I ended up making a little shortcut that would export a file, then use Secure ShellFish to upload the file. I tried it and it worked like a charm! It’s so nice to see a file basically **instantly** show up on my Mac after I run this Shortcut.
+So I ended up making a little shortcut that would export a file, then use Secure ShellFish to upload the file. I tried it and it worked like a charm! It’s so nice to see a file basically **instantly** show up on my Mac after I run this Shortcut. Of course, this is all made much easier by the fact that I have [TailScale](https://tailscale.com) deployed to my Mac and my iPhone, so I can connect to my Mac securely from anywhere. Did I mention how much I love Tailscale? 
 
-Coincidentally, Secure ShellFish is made by the same developer as [Working Copy](https://workingcopy.app/), an excellent GitHub / Git interface that I’ve been using to edit posts for this site. I recommend checking both of them out!
+Incidentally, Secure ShellFish is made by the same developer as [Working Copy](https://workingcopy.app/), an excellent GitHub / Git interface that I’ve been using to edit posts for this site. I recommend checking both of them out!
