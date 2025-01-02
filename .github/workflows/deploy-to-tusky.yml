@@ -21,8 +21,7 @@ jobs:
     - name: Deploy to Tusky
       run: |
         ssh -o StrictHostKeyChecking=no root@tusky.masto.yttrx.com << 'EOF'
-        cd /var/www/html/sta/
+        cd /var/www/html/coefficiencies/
         git pull origin main
-        cd /var/www/html/sta/sta-tommertron
         hugo
         EOF
