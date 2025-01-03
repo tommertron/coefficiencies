@@ -9,8 +9,8 @@ copyright = "&copy; 2024 tommertron heavy industries"
 [params]
   dateFormat = "January 2, 2006"
 
-  mainSections = ["samples"]
-  description = "A powerful, lightweight theme for Hugo built with Tailwind CSS."
+  mainSections = ["posts"]
+  description = "Thoughts about technology and work."
 
 [params.author]
   name = "Tom Robertson"
