@@ -14,10 +14,5 @@ customCSS: "/assets/css/custom.css"
 Hey, I'm Tom! I've spent most of my career working in Technology and Project Management, and I've always had a passion for technology, writing and tinkering, and general nerdery. If you want to reach out, connect through my socials above!
 
 {{< alert "circle-info">}}
-This site was built with [Hugo](1), using the [Congo](2) theme, and generously hosted by [waffles](3).
+This site was built with [Hugo](https://gohugo.io), using the [Congo](https://jpanther.github.io/congo/) theme, and generously hosted by [waffles](https://yttrx.com/@waffles).
 {{< /alert >}}
-
-
-[1]:	https://gohugo.io
-[2]:	https://jpanther.github.io/congo/
-[3]:	https://github.com/waffle2k/
