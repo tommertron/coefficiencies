@@ -20,4 +20,6 @@ copyright = "&copy; 2024 tommertron heavy industries"
   links = [
     { linkedin = "https://www.linkedin.com/in/tomarobertson/" },
     { github = "https://github.com/tommertron" },
+    { mastodon = "https://yttrx.com/@tommertron"},
+    { bluesky = "https://bsky.app/profile/tommertron.bsky.social"},
   ]
