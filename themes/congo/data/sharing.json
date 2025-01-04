@@ -68,5 +68,11 @@
     "icon": "bluesky",
     "title": "sharing.bluesky",
     "url": "https://bsky.app/intent/compose?text=%s%s"
+  },
+    },
+    "rss": {
+    "icon": "RSS",
+    "title": "sharing.rss",
+    "url": "https://coefficiencies.com/posts/index.xml"
   }
 }
