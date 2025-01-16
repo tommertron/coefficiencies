@@ -10,4 +10,4 @@ This is an update! I am updating my thing. Hello!
 
 Here is yet another update!
 
-![](Starfleet_insignia,_2160s.webp)
+![](boxer.png)
