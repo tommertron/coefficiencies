@@ -6,6 +6,6 @@ title = 'Testing Creating a Post from Obsidian'
 
 Hello, I am testing creating a post from Obsidian! I will now add an image to see where it goes. 
 
-This is an update! I am updating my thing. 
+This is an update! I am updating my thing. Hello!
 
 ![](Starfleet_insignia,_2160s.webp)
