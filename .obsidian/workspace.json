@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/test-obsidian/Creating a Post.md",
+                "file": "content/posts/test-obsidian/index.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Creating a Post"
+              "title": "index"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/test-obsidian/Creating a Post.md",
+                "file": "content/posts/test-obsidian/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Creating a Post"
+              "title": "Backlinks for index"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/test-obsidian/Creating a Post.md",
+                "file": "content/posts/test-obsidian/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Creating a Post"
+              "title": "Outgoing links from index"
             }
           },
           {
@@ -139,13 +139,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/test-obsidian/Creating a Post.md",
+                "file": "content/posts/test-obsidian/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Creating a Post"
+              "title": "Outline of index"
             }
           },
           {
@@ -177,11 +177,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6ddaf0c4860584c4",
+  "active": "2ce35838107dd74c",
   "lastOpenFiles": [
     "content/posts/test-obsidian/boxer.png",
     "content/posts/test-obsidian/Starfleet_insignia,_2160s.webp",
-    "content/posts/test-obsidian/Creating a Post.md",
+    "content/posts/test-obsidian/index.md",
     "content/posts/site-updating-workflow-update/index.md",
     "content/posts/automating-my-household-chore-reminders/index.md",
     "content/posts/test-obsidian"
