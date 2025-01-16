@@ -8,4 +8,6 @@ Hello, I am testing creating a post from Obsidian! I will now add an image to se
 
 This is an update! I am updating my thing. Hello!
 
+Here is yet another update!
+
 ![](Starfleet_insignia,_2160s.webp)
