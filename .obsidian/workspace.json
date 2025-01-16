@@ -15,7 +15,7 @@
               "state": {
                 "file": "content/posts/test-obsidian/Creating a Post.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Creating a Post"

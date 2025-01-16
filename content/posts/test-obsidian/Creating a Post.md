@@ -6,4 +6,4 @@ title = 'Testing Creating a Post from Obsidian'
 
 Hello, I am testing creating a post from Obsidian! I will now add an image to see where it goes. 
 
-![[Starfleet_insignia,_2160s.webp]]
+![](Starfleet_insignia,_2160s.webp)
