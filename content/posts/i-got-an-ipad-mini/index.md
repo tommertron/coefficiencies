@@ -7,7 +7,7 @@ title = 'I Got an iPad mini'
 
 I’ve owned various iPads since about 2010. My last one was the 2018 iPad Pro 11” which I loved a ton during the before COVID times for taking to meetings and taking notes on. About a year ago my daughter really wanted an iPad and I wasn’t using it that much since remote work started in earnest, so I let her have it.
 
-It’s been a year without an iPad and I gradually realized that I missed it a little bit. It’s a total luxury device. The combination of my phone and Mac is *fine* for most things and I can totally get by without an iPad. It’s just a nice little luxury for certain tasks.
+It’s been a year without an iPad and I gradually realized that I missed it a little bit. I do recognize that it’s a total luxury device. The combination of my phone and Mac is *fine* for most things and I can totally get by without an iPad. It’s just a nice little luxury for certain tasks.
 
 The thing I missed most was an easy way to read the occasional comic book digitally. Reading comics on a phone sucks, as either it’s too small or you have to awkwardly zoom around. And reading on a computer just feels awkward. (And I don’t believe Marvel Unlimited, my favourite way to read comic books digitally, even works on a Mac. But I’m too lazy to check.)
 
