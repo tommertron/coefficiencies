@@ -68,7 +68,7 @@ Recording the review is where tracking things as sticky notes on a board really 
 ## A Caveat
 If you’re a seasoned project practitioner, I’m sure you’ve been yelling at your screen reading this.
 
-> “But what about goals??! A project without a clear goal will never be successful!
+> But what about goals??! A project without a clear goal will never be successful!
 > And you can’t have a successful project without good people!
 
 To that, I would say: you’re right! Those are vital things and you should have them!
