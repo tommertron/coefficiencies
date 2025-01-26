@@ -20,7 +20,7 @@ jobs:
 
     - name: Deploy to Tusky
       run: |
-        ssh -o StrictHostKeyChecking=no root@tusky.masto.yttrx.com << 'EOF'
+        ssh -o StrictHostKeyChecking=no root@admin.yttrx.com << 'EOF'
         cd /var/www/html/coefficiencies/
         git pull origin main
         hugo
