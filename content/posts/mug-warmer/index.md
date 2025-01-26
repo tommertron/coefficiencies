@@ -8,4 +8,4 @@ I had long admired / lusted after the [Ember mug](https://ember.com/products/emb
 
 I ended up getting a mug warmer for Christmas that plugs into the wall though, and it’s GREAT. It’s so nice to have my coffee stay warm as I slowly drink it over the morning. PLUS, it looks like a little record player and helps to prevent stains from showing up on my white desk.
 
-I don’t know the exact brand or price as it was a gift, but you can find these fairly cheaply on Amazon, and I’d highly recommend them.
+I don’t know the exact brand or price as it was a gift, but you can find these fairly cheaply on Amazon, and I’d highly recommend them!
